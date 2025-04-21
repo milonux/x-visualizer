@@ -1,0 +1,25 @@
+{
+    "categories": [
+      "January", "February", "March", "April", "May", "June", 
+      "July", "August", "September", "October", "November", "December"
+    ],
+    "datasets": [
+      {
+        "name": "Website Visits",
+        "values": [125000, 132000, 141200, 148500, 158300, 165400, 172800, 168200, 159600, 171200, 182400, 194600]
+      },
+      {
+        "name": "Mobile App Users",
+        "values": [98200, 104500, 112300, 121600, 132400, 142800, 151200, 146700, 138900, 147500, 158300, 169400]
+      },
+      {
+        "name": "API Calls (millions)",
+        "values": [4.2, 4.5, 4.8, 5.1, 5.6, 5.9, 6.3, 6.1, 5.8, 6.2, 6.7, 7.2]
+      },
+      {
+        "name": "Transactions",
+        "values": [85400, 91200, 98700, 105600, 113200, 121800, 128500, 124300, 117600, 125400, 134700, 142900]
+      }
+    ]
+  }
+  
